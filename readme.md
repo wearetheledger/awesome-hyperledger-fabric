@@ -36,7 +36,7 @@ No closed source apps yet [add yours](#contribute)
 
 ### Client
 
-- [Hyperledger fabric typescript boilerplate](https://github.com/wearetheledger/hyperledger-typescript-boilerplate) - Client boilerplate for interacting with the fabric network using a REST API (Nestjs, swagger, pusher)
+- [Hyperledger fabric typescript boilerplate](https://github.com/wearetheledger/hyperledger-typescript-boilerplate) - Client boilerplate for interacting with the fabric network using a REST API (Typescript,Nestjs, swagger, pusher)
 
 ### Network
 
