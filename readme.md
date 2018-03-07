@@ -31,6 +31,7 @@ No closed source apps yet [add yours](#contribute)
 - [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Samples for hyperledger composer
 - [Kuma token example](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation on hyperledger fabric
 
+
 ## Boilerplates
 
 ### Client
@@ -60,9 +61,17 @@ No closed source apps yet [add yours](#contribute)
 
 ## Documentation
 
+### Docs
 - [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project
 - [Official CA docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project CA client and server
 - [Couchdb query docs](docs.couchdb.org/en/2.1.0/api/database/find.html?highlight=find#post--db-_find) - Official CouchDB documentation required for writing rich queries
+- [Node sdk docs](https://fabric-sdk-node.github.io)
+
+### Courses
+- [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) - FREE
+
+### Tutorials
+- [Tutorial Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - chainhero tutorial on how to build applications on hyperledger fabric v1.0.5
 
 
 ## Articles
@@ -80,6 +89,7 @@ No closed source apps yet [add yours](#contribute)
 ### Other
 
 - [The new and exciting features in Hyperledger Fabric 1.1(-preview)](https://medium.com/wearetheledger/the-new-and-exciting-features-in-hyperledger-fabric-1-1-preview-4261ece3590d)
+
 
 ## Community
 
