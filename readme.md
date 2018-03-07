@@ -2,7 +2,7 @@
 
 > A curated list of resources for creating applications with hyperledger fabric
 
-[<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="100">](https://www.hyperledger.org/projects/fabric)
+[<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/fabric)
 
 
 
