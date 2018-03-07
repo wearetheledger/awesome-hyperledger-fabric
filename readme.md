@@ -4,8 +4,6 @@
 
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/fabric)
 
-
-
 ## Contents
 
 - [Apps](#apps)
@@ -13,6 +11,7 @@
 - [Tools](#tools)
 - [Documentation](#documentation)
 - [Articles](#articles)
+- [Community](#community)
 
 
 ## Apps
@@ -86,9 +85,10 @@ No closed source apps yet [add yours](#contribute)
 
 - [Hyperledger community chat](http://chat.hyperledger.org)
 
+
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. If you found this resource helpful, give it a 🌟 otherwise [contribute](contributing.md) to it and give it a ⭐️.
 
 
 ## License
