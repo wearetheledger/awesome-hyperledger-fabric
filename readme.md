@@ -47,6 +47,7 @@ No closed source apps yet [add yours](#contribute)
 
 ### Client
 - [Hyperledger Fabric Client utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode on a Hyperledger Fabric blockchain network.
+- [Fabric shim types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the hyperledger fabric-shim chaincode package.
 
 ### Network
 - [Hyperledger Fabric network setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup
