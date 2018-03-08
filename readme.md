@@ -72,8 +72,11 @@ No closed source apps yet [add yours](#contribute)
 - [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) - FREE
 
 ### Tutorials
-- [Tutorial Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - chainhero tutorial on how to build applications on hyperledger fabric v1.0.5
+- [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - chainhero tutorial on how to build applications on hyperledger fabric v1.0.5
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
+
+#### Composer
+- [Debug your Blockchain business network using Hyperledger Composer](medium.com/@mrsimonstone/debug-your-blockchain-business-network-using-hyperledger-composer-9bea20b49a74)
 
 
 ## Articles
