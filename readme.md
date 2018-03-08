@@ -47,7 +47,6 @@ No closed source apps yet [add yours](#contribute)
 
 ### Client
 - [Hyperledger Fabric Client utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode on a Hyperledger Fabric blockchain network.
-- [Fabric shim types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the hyperledger fabric-shim chaincode package.
 
 ### Network
 - [Hyperledger Fabric network setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup
@@ -55,6 +54,7 @@ No closed source apps yet [add yours](#contribute)
 ### Chaincode
 - [Hyperledger Fabric dev setup for chaincode development](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup#initializing-new-project) - Setup which makes it easy to develop node.js chaincode in Hyperledger Fabric.
 - [Hyperledger Fabric Node chaincode utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utilities functions for Node.js chaincode on Hyperledger Fabric blockchaine
+- [Fabric shim types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the hyperledger fabric-shim chaincode package.
 
 ### Other
 - [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer
