@@ -29,20 +29,20 @@ No closed source apps yet [add yours](#contribute)
 ### Samples
 
 - [Fabric samples](https://github.com/hyperledger/fabric-samples) - Official maintained samples created by the Hyperledger team and contributors
-- [Marbles](https://github.com/IBM-Blockchain/marbles) - Marbles sample created by IBM visually demonstrating all the possibilities of hyperledger fabric 
-- [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Samples for hyperledger composer
-- [Kuma token example](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation on hyperledger fabric
+- [Marbles](https://github.com/IBM-Blockchain/marbles) - Marbles sample created by IBM visually demonstrating all the possibilities of Hyperledger Fabric 
+- [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Samples for Hyperledger composer
+- [Kuma token example](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation on Hyperledger Fabric
 
 
 ## Boilerplates
 
 ### Client
 
-- [Hyperledger fabric typescript boilerplate](https://github.com/wearetheledger/hyperledger-typescript-boilerplate) - Client boilerplate for interacting with the fabric network using a REST API (Typescript,Nestjs, swagger, pusher)
+- [Hyperledger Fabric typescript boilerplate](https://github.com/wearetheledger/hyperledger-typescript-boilerplate) - Client boilerplate for interacting with the Fabric network using a REST API (Typescript, Nestjs, swagger, pusher)
 
 ### Network
 
-- [Hyperledger fabric network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate) - Network boilerplate for easily setting up a new network
+- [Hyperledger Fabric network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate) - Network boilerplate for easily setting up a new network
 
 
 ## Tools
@@ -58,8 +58,8 @@ No closed source apps yet [add yours](#contribute)
 
 ### Chaincode
 
-- [Hyperledger Fabric dev setup for chaincode development](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup#initializing-new-project) - Setup which makes it easy to develop node.js chaincode in Hyperledger Fabric.
-- [Hyperledger Fabric Node chaincode utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utilities functions for Node.js chaincode on Hyperledger Fabric blockchain.
+- [Hyperledger Fabric dev setup for chaincode development](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup#initializing-new-project) - Setup which makes it easy to develop Nodejs chaincode in Hyperledger Fabric.
+- [Hyperledger Fabric Node chaincode utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utility functions for Nodejs chaincode on Hyperledger Fabric blockchain.
 - [Fabric shim types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the hyperledger fabric-shim chaincode package.
 - [Fabric Nodejs mockstub](https://github.com/wearetheledger/fabric-mock-stub) - Mock implementation of the fabric-shim stub for testing Nodejs chaincode.
 
@@ -78,7 +78,7 @@ No closed source apps yet [add yours](#contribute)
 - [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project
 - [Official CA docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project CA client and server
 - [Couchdb query docs](docs.couchdb.org/en/2.1.0/api/database/find.html?highlight=find#post--db-_find) - Official CouchDB documentation required for writing rich queries
-- [Node sdk docs](https://fabric-sdk-node.github.io)
+- [Node SDK docs](https://fabric-sdk-node.github.io)
 
 ### Courses
 
@@ -86,7 +86,7 @@ No closed source apps yet [add yours](#contribute)
 
 ### Tutorials
 
-- [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - chainhero tutorial on how to build applications on hyperledger fabric v1.0.5
+- [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 
 #### Composer
@@ -98,7 +98,7 @@ No closed source apps yet [add yours](#contribute)
 
 ### Architecture
 
-- [Hyperledger Fabric and how it isn’t concurrent out of the box.](https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040) - Explanation on the concurrency issue in Hyperledger Fabric
+- [Hyperledger Fabric and how it isn’t concurrent out of the box.](https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040)
 
 ### CouchDB
 
