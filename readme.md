@@ -50,6 +50,7 @@ No closed source apps yet [add yours](#contribute)
 
 ### Network
 - [Hyperledger Fabric network setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup
+- [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
 
 ### Chaincode
 - [Hyperledger Fabric dev setup for chaincode development](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup#initializing-new-project) - Setup which makes it easy to develop node.js chaincode in Hyperledger Fabric.
@@ -61,6 +62,8 @@ No closed source apps yet [add yours](#contribute)
 
 
 ## Documentation
+- [Understanding Hyperledger Fabric Gossip](https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e)
+- [Hyperledger Fabric Channel lifecycle](https://medium.com/kokster/understanding-hyperledger-fabric-channel-lifecycle-a546670646e)
 
 ### Docs
 - [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project
