@@ -1,6 +1,6 @@
 # Awesome Hyperledger Fabric [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of resources for creating applications with hyperledger fabric
+> A curated list of resources for creating applications with Hyperledger Fabric
 
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/fabric)
 
@@ -19,14 +19,16 @@
 Apps built with Hyperledger Fabric
 
 ### Open source
+
 No open source apps yet [add yours](#contribute)
 
 ### Closed
+
 No closed source apps yet [add yours](#contribute)
 
 ### Samples
 
-- [Fabric samples](https://github.com/hyperledger/fabric-samples) - Official samples created by the hyperledger team and contributors
+- [Fabric samples](https://github.com/hyperledger/fabric-samples) - Official maintained samples created by the Hyperledger team and contributors
 - [Marbles](https://github.com/IBM-Blockchain/marbles) - Marbles sample created by IBM visually demonstrating all the possibilities of hyperledger fabric 
 - [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Samples for hyperledger composer
 - [Kuma token example](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation on hyperledger fabric
@@ -46,45 +48,56 @@ No closed source apps yet [add yours](#contribute)
 ## Tools
 
 ### Client
-- [Hyperledger Fabric Client utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode on a Hyperledger Fabric blockchain network.
 
+- [Hyperledger Fabric Client utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode on a Hyperledger Fabric blockchain network.
+- [Fabric node chaincode utils](https://github.com/wearetheledger/fabric-node-chaincode-utils) - A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.
 ### Network
+
 - [Hyperledger Fabric network setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup
 - [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
 
 ### Chaincode
+
 - [Hyperledger Fabric dev setup for chaincode development](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup#initializing-new-project) - Setup which makes it easy to develop node.js chaincode in Hyperledger Fabric.
-- [Hyperledger Fabric Node chaincode utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utilities functions for Node.js chaincode on Hyperledger Fabric blockchaine
+- [Hyperledger Fabric Node chaincode utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utilities functions for Node.js chaincode on Hyperledger Fabric blockchain.
 - [Fabric shim types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the hyperledger fabric-shim chaincode package.
+- [Fabric Nodejs mockstub](https://github.com/wearetheledger/fabric-mock-stub) - Mock implementation of the fabric-shim stub for testing Nodejs chaincode.
 
 ### Other
+
 - [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer
 
 
 ## Documentation
+
 - [Understanding Hyperledger Fabric Gossip](https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e)
 - [Hyperledger Fabric Channel lifecycle](https://medium.com/kokster/understanding-hyperledger-fabric-channel-lifecycle-a546670646e)
 
 ### Docs
+
 - [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project
 - [Official CA docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project CA client and server
 - [Couchdb query docs](docs.couchdb.org/en/2.1.0/api/database/find.html?highlight=find#post--db-_find) - Official CouchDB documentation required for writing rich queries
 - [Node sdk docs](https://fabric-sdk-node.github.io)
 
 ### Courses
+
 - [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) - FREE
 
 ### Tutorials
+
 - [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - chainhero tutorial on how to build applications on hyperledger fabric v1.0.5
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 
 #### Composer
+
 - [Debug your Blockchain business network using Hyperledger Composer](medium.com/@mrsimonstone/debug-your-blockchain-business-network-using-hyperledger-composer-9bea20b49a74)
 
 
 ## Articles
 
 ### Architecture
+
 - [Hyperledger Fabric and how it isn’t concurrent out of the box.](https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040) - Explanation on the concurrency issue in Hyperledger Fabric
 
 ### CouchDB
@@ -92,6 +105,7 @@ No closed source apps yet [add yours](#contribute)
 - [Fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767) - Guide on how to write rich queries
 
 ### Devops
+
 - [Hyperledger Fabric on Multiple Hosts](https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f) - Multi-host Hyperledger Fabric deployment using docker swarm
 
 ### Other
