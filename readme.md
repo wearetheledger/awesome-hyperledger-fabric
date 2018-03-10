@@ -108,6 +108,10 @@ No closed source apps yet [add yours](#contribute)
 
 - [Hyperledger Fabric on Multiple Hosts](https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f) - Multi-host Hyperledger Fabric deployment using docker swarm
 
+### Composer
+
+- [Developing multi-user application using the Hyperledger Composer REST Server](https://medium.com/@CazChurchUk/developing-multi-user-application-using-the-hyperledger-composer-rest-server-b3b88e857ccc)
+
 ### Other
 
 - [The new and exciting features in Hyperledger Fabric 1.1(-preview)](https://medium.com/wearetheledger/the-new-and-exciting-features-in-hyperledger-fabric-1-1-preview-4261ece3590d)
