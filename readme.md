@@ -111,6 +111,7 @@ No closed source apps yet [add yours](#contribute)
 ### Other
 
 - [The new and exciting features in Hyperledger Fabric 1.1(-preview)](https://medium.com/wearetheledger/the-new-and-exciting-features-in-hyperledger-fabric-1-1-preview-4261ece3590d)
+- [How to start writing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-writing-your-hyperledger-fabric-nodejs-chaincode-4052393933ab)
 
 
 ## Community
