@@ -99,7 +99,7 @@ No closed source apps yet [add yours](#contribute)
 ### Architecture
 
 - [Hyperledger Fabric and how it isn’t concurrent out of the box.](https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040)
-- [Trust your competitor? How you can do that with a Hyperledger Fabric blockchain.](https://medium.com/blockchainspace/trust-your-competitor-how-you-can-do-with-hyperledger-fabric-5939bacffe76)
+- [Trust your competitor? How you can do that with a Hyperledger Fabric blockchain.](https://medium.com/blockchainspace/trust-your-competitor-how-you-can-do-with-hyperledger-fabric-5939bacffe76) - Explaining consensus mechanisms in Hyperledger Fabric
 
 ### CouchDB
 
