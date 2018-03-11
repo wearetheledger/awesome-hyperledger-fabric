@@ -70,9 +70,6 @@ No closed source apps yet [add yours](#contribute)
 
 ## Documentation
 
-- [Understanding Hyperledger Fabric Gossip](https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e)
-- [Hyperledger Fabric Channel lifecycle](https://medium.com/kokster/understanding-hyperledger-fabric-channel-lifecycle-a546670646e)
-
 ### Docs
 
 - [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project
@@ -100,6 +97,7 @@ No closed source apps yet [add yours](#contribute)
 
 - [Hyperledger Fabric and how it isn’t concurrent out of the box.](https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040)
 - [Trust your competitor? How you can do that with a Hyperledger Fabric blockchain.](https://medium.com/blockchainspace/trust-your-competitor-how-you-can-do-with-hyperledger-fabric-5939bacffe76) - Explaining consensus mechanisms in Hyperledger Fabric
+- [Understanding Hyperledger Fabric Gossip](https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e)
 
 ### CouchDB
 
