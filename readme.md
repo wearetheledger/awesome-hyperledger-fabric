@@ -16,7 +16,7 @@
 
 ## Apps
 
-- [Montega - reduce instances of fraud around receivables financing](https://monetago.com)
+- [Montega](https://monetago.com) - Reduce instances of fraud around receivables financing
 
 ### Open source
 
