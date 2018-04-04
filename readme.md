@@ -16,7 +16,7 @@
 
 ## Apps
 
-Apps built with Hyperledger Fabric
+- [Montega - reduce instances of fraud around receivables financing](https://monetago.com)
 
 ### Open source
 
