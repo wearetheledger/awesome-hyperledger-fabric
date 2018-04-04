@@ -55,7 +55,7 @@ No closed source apps yet [add yours](#contribute)
 
 - [Hyperledger Fabric network setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup
 - [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
-- [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain)
+- [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - GUI for managing and hosting a live Hyperledger Fabric network
 
 ### Chaincode
 
