@@ -117,6 +117,7 @@ No closed source apps yet [add yours](#contribute)
 - [The new and exciting features in Hyperledger Fabric 1.1(-preview)](https://medium.com/wearetheledger/the-new-and-exciting-features-in-hyperledger-fabric-1-1-preview-4261ece3590d)
 - [How to start writing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-writing-your-hyperledger-fabric-nodejs-chaincode-4052393933ab)
 - [How to start testing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-testing-your-hyperledger-fabric-nodejs-chaincode-229453c3c214)
+- [How to prevent key collisions in Hyperledger Fabric chaincode](https://medium.com/@gatakka/how-to-prevent-key-collisions-in-hyperledger-fabric-chaincode-303700716733)
 
 
 ## Community
