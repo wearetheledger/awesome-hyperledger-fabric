@@ -91,6 +91,9 @@ No closed source apps yet [add yours](#contribute)
 
 - [Debug your Blockchain business network using Hyperledger Composer](medium.com/@mrsimonstone/debug-your-blockchain-business-network-using-hyperledger-composer-9bea20b49a74)
 
+### Whitepaper
+- [White paper Hyperledger projects](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)
+
 
 ## Articles
 
@@ -118,6 +121,7 @@ No closed source apps yet [add yours](#contribute)
 - [How to start writing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-writing-your-hyperledger-fabric-nodejs-chaincode-4052393933ab)
 - [How to start testing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-testing-your-hyperledger-fabric-nodejs-chaincode-229453c3c214)
 - [How to prevent key collisions in Hyperledger Fabric chaincode](https://medium.com/@gatakka/how-to-prevent-key-collisions-in-hyperledger-fabric-chaincode-303700716733)
+- [Tools that will help create your first Hyperledger Fabric application](https://medium.com/kunstmaan/tools-that-will-help-create-your-first-hyperledger-fabric-application-b8345317792)
 
 
 ## Community
