@@ -42,6 +42,7 @@ No closed source apps yet [add yours](#contribute)
 
 ### Network
 
+- [Starter Application and Deployment Scripts for Hyperledger Fabric 1.0](https://github.com/olegabu/fabric-starter)
 - [Hyperledger Fabric network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate) - Network boilerplate for easily setting up a new network
 
 
@@ -117,6 +118,8 @@ No closed source apps yet [add yours](#contribute)
 
 ### Other
 
+- [Tools that will help create your first Hyperledger Fabric application](https://medium.com/kunstmaan/tools-that-will-help-create-your-first-hyperledger-fabric-application-b8345317792)
+- [How to deploy (early) production ready Hyperledger Fabric applications using IBM Cloud](https://medium.com/wearetheledger/how-to-deploy-early-production-ready-hyperledger-fabric-applications-using-ibm-cloud-caa7ecec22b5?source=collection_home---4------1----------------)
 - [The new and exciting features in Hyperledger Fabric 1.1(-preview)](https://medium.com/wearetheledger/the-new-and-exciting-features-in-hyperledger-fabric-1-1-preview-4261ece3590d)
 - [How to start writing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-writing-your-hyperledger-fabric-nodejs-chaincode-4052393933ab)
 - [How to start testing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-testing-your-hyperledger-fabric-nodejs-chaincode-229453c3c214)
