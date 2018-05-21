@@ -60,14 +60,15 @@ No closed source apps yet [add yours](#contribute)
 
 ### Chaincode
 
-- [Hyperledger Fabric dev setup for chaincode development](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup#initializing-new-project) - Setup which makes it easy to develop Nodejs chaincode in Hyperledger Fabric.
-- [Hyperledger Fabric Node chaincode utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utility functions for Nodejs chaincode on Hyperledger Fabric blockchain.
-- [Fabric shim types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the hyperledger fabric-shim chaincode package.
-- [Fabric Nodejs mockstub](https://github.com/wearetheledger/fabric-mock-stub) - Mock implementation of the fabric-shim stub for testing Nodejs chaincode.
+- [hyperledger-fabric-chaincode-dev-setup](https://github.com/Kunstmaan/hyperledger-fabric-chaincode-dev-setup) - Setup which makes it easy to develop Nodejs chaincode.
+- [hyperledger-fabric-node-chaincode-utils](https://github.com/Kunstmaan/hyperledger-fabric-node-chaincode-utils) - Utility functions for Nodejs chaincode on Hyperledger Fabric blockchain.
+- [fabric-shim-types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the `fabric-shim` chaincode package.
+- [fabric-mock-stub](https://github.com/wearetheledger/fabric-mock-stub) - Mock implementation of the `fabric-shim` stub for testing Nodejs chaincode.
+- [fabric-shim-crypto-types](https://github.com/wearetheledger/fabric-shim-crypto-types) - Typescript types for the `fabric-shim-crypto` package.
 
 ### Other
 
-- [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer
+- [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer.
 
 
 ## Documentation
