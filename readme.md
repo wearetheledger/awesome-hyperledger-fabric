@@ -16,7 +16,7 @@
 
 ## Apps
 
-- [Montega](https://monetago.com) - Reduce instances of fraud around receivables financing
+- [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing
 
 ### Open source
 
@@ -28,35 +28,35 @@ No closed source apps yet [add yours](#contribute)
 
 ### Samples
 
-- [Fabric samples](https://github.com/hyperledger/fabric-samples) - Official maintained samples created by the Hyperledger team and contributors
-- [Marbles](https://github.com/IBM-Blockchain/marbles) - Marbles sample created by IBM visually demonstrating all the possibilities of Hyperledger Fabric 
-- [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Samples for Hyperledger composer
-- [Kuma token example](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation on Hyperledger Fabric
+- [Fabric samples](https://github.com/hyperledger/fabric-samples) - Official maintained samples created by the Hyperledger team and contributors.
+- [Marbles](https://github.com/IBM-Blockchain/marbles) - Marbles sample created by IBM visually demonstrating all the possibilities.
+- [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Official samples for Hyperledger composer.
+- [Kuma token](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation.
 
 
 ## Boilerplates
 
 ### Client
 
-- [Hyperledger Fabric typescript boilerplate](https://github.com/wearetheledger/hyperledger-typescript-boilerplate) - Client boilerplate for interacting with the Fabric network using a REST API (Typescript, Nestjs, swagger, pusher)
+- [Backend typescript boilerplate](https://github.com/wearetheledger/hyperledger-typescript-boilerplate) - Client boilerplate for interacting with the Fabric network using a REST API (Typescript, Nestjs, swagger, pusher).
 
 ### Network
 
-- [Starter Application and Deployment Scripts for Hyperledger Fabric 1.0](https://github.com/olegabu/fabric-starter)
-- [Hyperledger Fabric network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate) - Network boilerplate for easily setting up a new network
+- [Fabric starter](https://github.com/olegabu/fabric-starter) - Starter Application and Deployment Scripts.
+- [Hyperledger Fabric network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate) - Network boilerplate for easily setting up a new network.
 
 
 ## Tools
 
 ### Client
 
-- [Hyperledger Fabric Client utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode on a Hyperledger Fabric blockchain network.
-- [Fabric node chaincode utils](https://github.com/wearetheledger/fabric-node-chaincode-utils) - A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.
+- [hyperledger-fabric-client-utils)](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode.
+- [fabric-node-chaincode-utils](https://github.com/wearetheledger/fabric-node-chaincode-utils) - A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.
+
 ### Network
 
-- [Hyperledger Fabric network setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup
-- [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
-- [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - GUI for managing and hosting a live Hyperledger Fabric network
+- [hyperledger-fabric-network-setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced network setup.
+- [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - Managing and hosting a live network on IBM Cloud.
 
 ### Chaincode
 
@@ -87,6 +87,7 @@ No closed source apps yet [add yours](#contribute)
 
 - [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
+- [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
 
 #### Composer
 
@@ -103,14 +104,16 @@ No closed source apps yet [add yours](#contribute)
 - [Hyperledger Fabric and how it isn’t concurrent out of the box.](https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040)
 - [Trust your competitor? How you can do that with a Hyperledger Fabric blockchain.](https://medium.com/blockchainspace/trust-your-competitor-how-you-can-do-with-hyperledger-fabric-5939bacffe76) - Explaining consensus mechanisms in Hyperledger Fabric
 - [Understanding Hyperledger Fabric Gossip](https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e)
+- [Private and confidential transactions with Hyperledger Fabric](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-private-confidential-transactions-hyperledger-fabric-zero-knowledge-proof/index.html)
+- [Two Enter, One Leaves](https://developer.ibm.com/code/2018/05/11/two-enter-one-leaves/) - Early attempts to bring Ethereum to Hyperledger Fabric.
 
 ### CouchDB
 
-- [Fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767) - Guide on how to write rich queries
+- [Fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767) - Guide on how to write rich queries.
 
 ### Devops
 
-- [Hyperledger Fabric on Multiple Hosts](https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f) - Multi-host Hyperledger Fabric deployment using docker swarm
+- [Hyperledger Fabric on Multiple Hosts](https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f) - Multi-host Hyperledger Fabric deployment using docker swarm.
 
 ### Composer
 
