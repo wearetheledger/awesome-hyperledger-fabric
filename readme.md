@@ -89,6 +89,7 @@ No closed source apps yet [add yours](#contribute)
 - [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 - [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
+- [Fabric on Google Cloud Platform](https://medium.com/google-cloud/fabric-on-google-cloud-platform-97525323457c)
 
 #### Composer
 
