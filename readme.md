@@ -16,15 +16,13 @@
 
 ## Apps
 
-- [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing
-
 ### Open source
 
 No open source apps yet [add yours](#contribute)
 
 ### Closed
 
-No closed source apps yet [add yours](#contribute)
+- [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing
 
 ### Samples
 
@@ -83,6 +81,8 @@ No closed source apps yet [add yours](#contribute)
 ### Courses
 
 - [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) - FREE
+- [Hyperledger - Blockchain Technologies for Business by Иван Ванков](https://www.youtube.com/watch?v=7EpPrSJtqZU&list=PLjsqymUqgpSRXC9ywNIVUUoGXelQa4olO) - Youtube series explaining Hyperledger Fabric
+- [Hyperledger Fabric - build first network by Иван Ванков](https://www.youtube.com/watch?v=MPNkUqOKhVE&list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh) - Technical youtube series Hyperledger Fabric
 
 ### Tutorials
 
@@ -130,11 +130,14 @@ No closed source apps yet [add yours](#contribute)
 - [How to start testing your Hyperledger Fabric Nodejs chaincode](https://medium.com/wearetheledger/how-to-start-testing-your-hyperledger-fabric-nodejs-chaincode-229453c3c214)
 - [How to prevent key collisions in Hyperledger Fabric chaincode](https://medium.com/@gatakka/how-to-prevent-key-collisions-in-hyperledger-fabric-chaincode-303700716733)
 - [Tools that will help create your first Hyperledger Fabric application](https://medium.com/kunstmaan/tools-that-will-help-create-your-first-hyperledger-fabric-application-b8345317792)
+- [On the origins of Hyperledger Fabric](https://www.linkedin.com/pulse/origins-hyperledger-fabric-maciek-jędrzejczyk/)
 
 
 ## Community
 
-- [Hyperledger community chat](http://chat.hyperledger.org)
+- [Community chat](http://chat.hyperledger.org)
+- [Hyperledger wiki for Fabric](https://wiki.hyperledger.org/projects/fabric)
+- [Support mailing list](https://lists.hyperledger.org/g/fabric/join)
 
 
 ## Contribute
