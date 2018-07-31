@@ -30,7 +30,7 @@ No open source apps yet [add yours](#contribute)
 - [Marbles](https://github.com/IBM-Blockchain/marbles) - Marbles sample created by IBM visually demonstrating all the possibilities.
 - [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) - Official samples for Hyperledger composer.
 - [Kuma token](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) - Example token implementation.
-
+- [Land Ownership Tracking](https://github.com/ronaldlong46/hyperledger-land-tracking) - Sample Hyperledger Composer application that allows government agencies to track ownership and transactions.
 
 ## Boilerplates
 
