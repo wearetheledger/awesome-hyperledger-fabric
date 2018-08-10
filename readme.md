@@ -109,6 +109,11 @@ No open source apps yet [add yours](#contribute)
 - [Private and confidential transactions with Hyperledger Fabric](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-private-confidential-transactions-hyperledger-fabric-zero-knowledge-proof/index.html)
 - [Two Enter, One Leaves](https://developer.ibm.com/code/2018/05/11/two-enter-one-leaves/) - Early attempts to bring Ethereum to Hyperledger Fabric.
 
+### Private Data
+
+- [Private data, a built-in “GDPR compliant” solution for Hyperledger Fabric](https://medium.com/wearetheledger/private-db-a-built-in-gdpr-compliant-solution-for-hyperledger-fabric-1a082da1b301) - Theoretical guide on private data and sideDBs.
+- [A Beginner’s Guide to SideDBs and Private Data for Hyperledger Fabric Nodejs Chaincode](https://medium.com/wearetheledger/a-beginners-guide-to-sidedbs-and-private-data-for-hyperledger-fabric-nodejs-chaincode-38d2c1bee198) - Practical guide on how to write private data chaincode.
+
 ### CouchDB
 
 - [Fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767) - Guide on how to write rich queries.
