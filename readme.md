@@ -67,6 +67,7 @@ No open source apps yet [add yours](#contribute)
 ### Other
 
 - [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer.
+- [tineola](https://github.com/tineola/tineola) - Command line interface and packaged chaincode built for offensive security testing.
 
 
 ## Documentation
