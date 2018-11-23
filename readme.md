@@ -63,6 +63,7 @@ No open source apps yet [add yours](#contribute)
 - [fabric-shim-types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the `fabric-shim` chaincode package.
 - [fabric-mock-stub](https://github.com/wearetheledger/fabric-mock-stub) - Mock implementation of the `fabric-shim` stub for testing Nodejs chaincode.
 - [fabric-shim-crypto-types](https://github.com/wearetheledger/fabric-shim-crypto-types) - Typescript types for the `fabric-shim-crypto` package.
+- [CCKit](https://github.com/s7techlab/cckit) - Library for creating and testing golang chaincode, includes extended Mockstub implementation
 
 ### Other
 
