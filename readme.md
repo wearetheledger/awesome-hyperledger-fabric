@@ -48,7 +48,7 @@ No open source apps yet [add yours](#contribute)
 
 ### Client
 
-- [hyperledger-fabric-client-utils)](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode.
+- [hyperledger-fabric-client-utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode.
 - [fabric-node-chaincode-utils](https://github.com/wearetheledger/fabric-node-chaincode-utils) - A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.
 - [hlf-sdk-go](https://github.com/s7techlab/hlf-sdk-go) - A third-party Golang Hyperledger Fabric SDK
 
