@@ -93,6 +93,7 @@ No open source apps yet [add yours](#contribute)
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 - [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
 - [Fabric on Google Cloud Platform](https://medium.com/google-cloud/fabric-on-google-cloud-platform-97525323457c)
+- [Write your first Chaincode (v1.4) using Node, Babel, Model/Controller and Test it using Mocha](https://medium.com/@jojoooo/write-your-first-hyperledger-fabric-1-4-chaincode-bab3c484c35a)
 
 #### Composer
 
