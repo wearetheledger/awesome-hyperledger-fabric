@@ -140,6 +140,7 @@ No open source apps yet [add yours](#contribute)
 - [How to prevent key collisions in Hyperledger Fabric chaincode](https://medium.com/@gatakka/how-to-prevent-key-collisions-in-hyperledger-fabric-chaincode-303700716733)
 - [Tools that will help create your first Hyperledger Fabric application](https://medium.com/kunstmaan/tools-that-will-help-create-your-first-hyperledger-fabric-application-b8345317792)
 - [On the origins of Hyperledger Fabric](https://www.linkedin.com/pulse/origins-hyperledger-fabric-maciek-jędrzejczyk/)
+- [Hyperledger Fabric smart contract data model: protobuf to chaincode state mapping](https://medium.com/coinmonks/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping-191cdcfa0b78)
 
 
 ## Community
