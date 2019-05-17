@@ -57,6 +57,7 @@ No open source apps yet [add yours](#contribute)
 
 - [hyperledger-fabric-network-setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced network setup.
 - [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - Managing and hosting a live network on IBM Cloud.
+- [Hurley](https://worldsibu.tech/convector/hurley-development-environment/) - Quickly setup your network development environment
 
 ### Chaincode
 
