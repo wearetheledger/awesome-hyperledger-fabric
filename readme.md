@@ -23,6 +23,7 @@ No open source apps yet [add yours](#contribute)
 ### Closed
 
 - [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing
+- [Tellus](https://worldsibu.tech/tellus/) - Smart contracts transaction designer without coding
 
 ### Samples
 
