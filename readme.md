@@ -112,6 +112,9 @@ No open source apps yet [add yours](#contribute)
 - [Understanding Hyperledger Fabric Gossip](https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e)
 - [Private and confidential transactions with Hyperledger Fabric](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-private-confidential-transactions-hyperledger-fabric-zero-knowledge-proof/index.html)
 - [Two Enter, One Leaves](https://developer.ibm.com/code/2018/05/11/two-enter-one-leaves/) - Early attempts to bring Ethereum to Hyperledger Fabric.
+- [Demystifying Hyperledger Fabric (1/3): Fabric Architecture](https://medium.com/coinmonks/demystifying-hyperledger-fabric-1-3-fabric-architecture-a2fdb587f6cb)
+- [Demystifying Hyperledger Fabric (2/3): Private Data Collection](https://medium.com/coinmonks/demystifying-hyperledger-fabric-2-3-private-data-collection-164220ecafa5)
+- [Demystifying Hyperledger Fabric (3/3): Network Traffic Handling, Service Discovery, and Operations Service](https://medium.com/coinmonks/demystifying-hyperledger-fabric-3-3-network-traffic-handling-service-discovery-and-operations-f9a2046b4067)
 
 ### Private Data
 
