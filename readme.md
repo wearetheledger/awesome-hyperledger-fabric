@@ -23,6 +23,7 @@ No open source apps yet [add yours](#contribute)
 ### Closed
 
 - [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing
+- [Tellus](https://worldsibu.tech/tellus/) - Smart contracts transaction designer without coding
 
 ### Samples
 
@@ -56,6 +57,8 @@ No open source apps yet [add yours](#contribute)
 
 - [hyperledger-fabric-network-setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced network setup.
 - [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - Managing and hosting a live network on IBM Cloud.
+- [Hurley](https://worldsibu.tech/convector/hurley-development-environment/) - Quickly setup your network development environment
+- [WorldSibu - Forma](https://worldsibu.tech/forma/) - Real Multi-cloud Remote Blockchain Infrastructure Orchestrator
 
 ### Chaincode
 
