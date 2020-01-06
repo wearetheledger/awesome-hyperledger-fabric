@@ -18,7 +18,7 @@
 
 ### Open source
 
-No open source apps yet [add yours](#contribute)
+[Supply chain](https://github.com/ialberquilla/hlf1.4-supply-chain) - Supply chain PoC App with four organizations exposing a Rest API created in Hyperledger Fabric
 
 ### Closed
 
