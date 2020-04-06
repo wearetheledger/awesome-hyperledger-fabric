@@ -97,6 +97,8 @@
 - [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
 - [Fabric on Google Cloud Platform](https://medium.com/google-cloud/fabric-on-google-cloud-platform-97525323457c)
 - [Write your first Chaincode (v1.4) using Node, Babel, Model/Controller and Test it using Mocha](https://medium.com/@jojoooo/write-your-first-hyperledger-fabric-1-4-chaincode-bab3c484c35a)
+- [Start Developing Hyperledger Fabric Chaincode in Node.js](https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db)
+- [Walkthrough of Hyperledger Fabric Node SDK and Client Application](https://medium.com/datadriveninvestor/walkthrough-of-hyperledger-fabric-client-application-aae5222bdfd3)
 
 #### Composer
 
@@ -148,6 +150,8 @@
 - [On the origins of Hyperledger Fabric](https://www.linkedin.com/pulse/origins-hyperledger-fabric-maciek-jędrzejczyk/)
 - [Hyperledger Fabric smart contract data model: protobuf to chaincode state mapping](https://medium.com/coinmonks/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping-191cdcfa0b78)
 - [Hyperledger Fabric chaincode test driven development (TDD) with unit testing](https://medium.com/coinmonks/test-driven-hyperledger-fabric-golang-chaincode-development-dbec4cb78049)
+- [Start Developing Hyperledger Fabric Chaincode in Node.js](https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db)
+- [Walkthrough of Hyperledger Fabric Node SDK and Client Application](https://medium.com/datadriveninvestor/walkthrough-of-hyperledger-fabric-client-application-aae5222bdfd3)
 
 ## Community
 
