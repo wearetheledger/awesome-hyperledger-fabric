@@ -60,6 +60,7 @@
 - [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - Managing and hosting a live network on IBM Cloud.
 - [Hurley](https://worldsibu.tech/convector/hurley-development-environment/) - Quickly setup your network development environment.
 - [WorldSibu - Forma](https://worldsibu.tech/forma/) - Real Multi-cloud Remote Blockchain Infrastructure Orchestrator.
+- [Zeeve](https://www.zeeve.io/) - Deploy and Manage Blockchain Network on multiple cloud providers like GCP, AWS, Azure, Digital Ocean or On-premise
 
 ### Chaincode
 
@@ -154,6 +155,7 @@
 - [Hyperledger Fabric chaincode test driven development (TDD) with unit testing](https://medium.com/coinmonks/test-driven-hyperledger-fabric-golang-chaincode-development-dbec4cb78049)
 - [Start Developing Hyperledger Fabric Chaincode in Node.js](https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db)
 - [Walkthrough of Hyperledger Fabric Node SDK and Client Application](https://medium.com/datadriveninvestor/walkthrough-of-hyperledger-fabric-client-application-aae5222bdfd3)
+- [How to write unit tests for Hyperledger Fabric Go chaincode](https://blogs.sap.com/2019/01/11/how-to-write-unit-tests-for-hyperledger-fabric-go-chaincode/) - Applied for Fabric v1.x
 
 ## Community
 
