@@ -110,6 +110,11 @@
 ### Whitepaper
 - [White paper Hyperledger projects](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)
 
+### Research Papers
+
+- [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf)
+- [Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform](https://arxiv.org/pdf/1805.11390.pdf)
+- [FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second](https://arxiv.org/pdf/1901.00910.pdf)
 
 ## Articles
 
