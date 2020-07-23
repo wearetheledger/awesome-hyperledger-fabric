@@ -9,6 +9,7 @@
 - [Apps](#apps)
 - [Boilerplates](#boilerplates)
 - [Tools](#tools)
+- [Books](#books)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Community](#community)
@@ -76,6 +77,15 @@
 - [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer.
 - [tineola](https://github.com/tineola/tineola) - Command line interface and packaged chaincode built for offensive security testing.
 
+## Books
+
+### LeanPub
+
+- [Mastering Hyperledger fabric](https://leanpub.com/masteringhyperledgerfabric) - Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
+
+### Amazon
+
+- [Mastering Hyperledger fabric](https://www.amazon.in/dp/B084KZP9M7/ref=as_sl_pc_qf_sp_asin_til?tag=nnrthota-21&linkCode=w00&linkId=5f273a45f1c4c81962e550d92733c45d&creativeASIN=B084KZP9M7) - Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
 
 ## Documentation
 
