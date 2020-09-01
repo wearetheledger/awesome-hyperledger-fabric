@@ -87,6 +87,10 @@
 
 - [Mastering Hyperledger fabric](https://www.amazon.in/dp/B084KZP9M7/ref=as_sl_pc_qf_sp_asin_til?tag=nnrthota-21&linkCode=w00&linkId=5f273a45f1c4c81962e550d92733c45d&creativeASIN=B084KZP9M7) - Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
 
+### Manning Publications
+
+- [Programming Hyperledger Fabric](https://www.manning.com/books/programming-hyperledger-fabric) - A hands-on guide to developing blockchain applications for enterprise use cases such as supply chains, financial accounting, and logistics.
+
 ## Documentation
 
 ### Docs
