@@ -97,7 +97,6 @@
 ### Docs
 
 - [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project.
-- [Official CA docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project CA client and server.
 - [Couchdb query docs](docs.couchdb.org/en/2.1.0/api/database/find.html?highlight=find#post--db-_find) - Official CouchDB documentation required for writing rich queries.
 - [Node SDK docs](https://fabric-sdk-node.github.io)
 
